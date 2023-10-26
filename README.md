@@ -2,7 +2,7 @@
 
 Emlak piyasası üzerinden Gradient Decent( meyilli iniş ) algoritması ile bir modelin hatasını nasıl minimizasyon ettiğimizi açıklayan, Klasik Linear Regresyon modeli ile farkını anlatan çalışmadır.
 
-!(gradient_decent.png)
+![Gradient Descent](gradient_decent.png)
 
 
 "Emlak piyasası üzerinde Gradient Descent algoritması, lineer regresyon modellerinin inşası sırasında hatayı minimize etmek amacıyla matematiksel bir optimizasyon yaklaşımını temsil eder. Bu yaklaşım, regresyon modelinin bağımsız değişkenler ve bağımlı değişken arasındaki ilişkiyi en iyi şekilde tanımlayabilmesi için model parametrelerini optimize etmeyi hedefler.
