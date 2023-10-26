@@ -13,6 +13,6 @@ Klasik Lineer Regresyon modeli ise, veri noktaları arasındaki doğrusal ilişk
 
 Oluşturulan her iki model de çalışma içinde Varyans ve yanlılık sonuçları olarak değerlendirilmiştir.
 
-!(varyans_yanlılık.png)
+![Varyans ve Yanlılık](varyans_yanlılık.png)
 
 Sonuç olarak, Gradient Descent algoritması, Emlak piyasası veya diğer uygulama alanlarında daha iyi performans gösteren regresyon modelleri oluşturmak için yaygın bir yaklaşımdır ve verilerle daha iyi uyum sağlamak için model parametrelerini optimize eder."
